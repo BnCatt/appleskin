@@ -1,0 +1,11 @@
+[package]
+name = "horizon-mod-appleskin"
+version = "1.0.0"
+edition = "2024"
+authors = ["CayMac"]
+description = "AppleSkin native mod for Horizon"
+
+[lib]
+path = "mixins/appleskin/runtime.rs"
+
+[dependencies]

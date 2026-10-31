@@ -1,0 +1,8 @@
+[mod]
+id = "appleskin"
+name = "AppleSkin"
+version = "1.0.0"
+description = "Hunger & saturation HUD overlay, food value preview, and saturation tooltips."
+authors = ["CayMac"]
+kind = "native"
+entrypoint = "mixins/appleskin/runtime.rs"
