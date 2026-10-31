@@ -6,6 +6,6 @@ authors = ["CayMac"]
 description = "AppleSkin native mod for Horizon"
 
 [lib]
-path = "mixins/appleskin/runtime.rs"
+path = "mixins/appleskin_horizon/runtime.rs"
 
 [dependencies]

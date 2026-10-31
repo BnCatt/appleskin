@@ -2,7 +2,7 @@
 // 1:1 parity with Java AppleSkin (squeek502) saturation HUD overlay.
 use std::cell::RefCell;
 
-pub const ID: &str = "appleskin";
+pub const ID: &str = "appleskin_horizon";
 pub const NAME: &str = "AppleSkin";
 pub const VERSION: &str = "1.0.0";
 pub const DESCRIPTION: &str = "Hunger bar saturation HUD overlay with 1:1 Java AppleSkin parity.";
