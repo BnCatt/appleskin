@@ -11,7 +11,7 @@ Adds food and saturation HUD indicators with 1:1 Minecraft Java parity:
 Developed by **CayMac**.
 
 ## Installation
-Place `appleskin-1.0.0.hnmod` into your Horizon `mods` folder, or build it into your native client instance via the Horizon Launcher.
+Place `appleskin_horizon-1.0.0.hnmod` into your Horizon `mods` folder, or build it into your native client instance via the Horizon Launcher.
 
 ## License
 [MIT](LICENSE)
